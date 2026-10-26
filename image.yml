@@ -13,6 +13,13 @@ release:
   branch: resolute
   tag: resolute
   channel: stable
+  tags:
+  - tag: resolute
+    description: Ubuntu 26.04 Resolute Raccoon.
+  - tag: noble
+    description: Ubuntu 24.04 Noble Numbat.
+  - tag: jammy
+    description: Ubuntu 22.04 Jammy Jellyfish.
 
 build:
   base: ubuntu
