@@ -1,6 +1,7 @@
 # The manifest for docker-baseimage-ubuntu. Schema: https://github.com/linuxserver-playground/builder/blob/main/schemas/image.schema.json
 schema: 1
 name: baseimage-ubuntu
+kind: base
 
 summary: baseimage-ubuntu container image.
 
